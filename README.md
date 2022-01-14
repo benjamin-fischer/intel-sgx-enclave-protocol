@@ -1,3 +1,7 @@
+## Protocol
+
+![image](https://github.com/benjamin-fischer/intel-sgx-enclave-protocol/blob/main/Protocol.PNG)
+
 ## Compilation
 
 #### /Enclave_A/App/
