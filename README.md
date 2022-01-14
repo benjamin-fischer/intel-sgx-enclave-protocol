@@ -1,4 +1,4 @@
-### Compilation ###
+## Compilation
 
 # Directory: /Enclave_A/App/
 
@@ -10,7 +10,7 @@ make SGX_MODE=SIM
 make clean
 make SGX_MODE=SIM
 
-### Execution ###
+## Execution
 
 Usage: ./app HOST_IP PORT
 
