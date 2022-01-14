@@ -1,1 +1,0 @@
-# intel-sgx-enclave-protocol
