@@ -1,4 +1,4 @@
-### Compilation
+## Compilation
 
 #### /Enclave_A/App/
 
@@ -10,7 +10,7 @@ make SGX_MODE=SIM
 make clean
 make SGX_MODE=SIM
 
-### Execution
+## Execution
 
 Usage: ./app HOST_IP PORT
 
@@ -22,6 +22,6 @@ Usage: ./app HOST_IP PORT
 
 ./app 127.0.0.1 4567
 
-### Note
+## Note
 
 First execute the app binary in /Enclave_A/App/ and then in /Enclave_B/App/
